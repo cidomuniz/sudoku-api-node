@@ -1,0 +1,16 @@
+{
+    "name": "sudoku-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Aparecido Muniz / cidoliveiraa",
+    "license": "ISC",
+    "devDependencies": {
+        "express": "^4.17.1",
+        "lodash": "^4.17.15",
+        "nodemon": "^1.19.2"
+    }
+}
